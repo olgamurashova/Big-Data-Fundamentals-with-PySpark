@@ -20,6 +20,7 @@ print(my_spark)
 # Print the tables in the catalog
 print(spark.catalog.listTables())
 
+------------------
 #Running queries
 
 # Don't change this query
@@ -30,3 +31,6 @@ flights10 = spark.sql(query)
 
 # Show the results
 flights10.show()
+
+------------------
+#Using Pandas
