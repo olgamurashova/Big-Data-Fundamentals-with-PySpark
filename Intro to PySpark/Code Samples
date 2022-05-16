@@ -46,3 +46,6 @@ pd_counts = flight_counts.toPandas()
 
 # Print the head of pd_counts
 print(pd_counts.head())
+-----------------
+
+#Creating Pandas DataFrame
