@@ -2,5 +2,5 @@
 
 ### Overview:
 
-The repository contains information about PySpark syntax used for sturctured data processing, 
+The repository contains information about PySpark syntax used for structured data processing.
 
