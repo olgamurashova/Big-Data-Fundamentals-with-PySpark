@@ -1,4 +1,6 @@
-## Big-Data-Fundamentals-with-PySpark
+## Big Data Fundamentals with PySpark
 
-### Overview
+### Overview:
+
+The repository contains information about PySpark syntax used for sturctured data processing, 
 
